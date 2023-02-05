@@ -1,6 +1,12 @@
 server:
   port: 9000
 
+tg:
+  bot:
+    ea-atls:
+      bot-username: "--"
+      bot-token: "--"
+
 spring:
   application:
     name: TELEGRAM-BOT
